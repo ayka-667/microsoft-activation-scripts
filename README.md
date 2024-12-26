@@ -28,10 +28,6 @@ A powerful and straightforward tool designed to activate Microsoft products, inc
 
 This script is intended for educational purposes and for users who have a valid license but are unable to activate their products due to technical issues. The developer is not responsible for any misuse of this tool.
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to submit issues or pull requests.
-
 ---
 
 ### 👤 Author
